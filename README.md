@@ -12,3 +12,6 @@ This repository contains my answers to the few interesting questions in the appl
 ## Interesting document or video
 
 If you have any interesting document/video about yourself, please attach it here. If you have an interesting link, please copy it in the box below (k.: just link it here).
+
+* [Zubná ambulancia Strmý vŕšok](http://zubnaambulancia.sk)
+* [Diggy's Helper](https://diggyshelper.net)
