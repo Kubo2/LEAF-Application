@@ -2,12 +2,14 @@
 
 This repository contains my answers to the few interesting questions in the application for the LEAF Academy.
 
-* [Why do you want to join the LEAF Academy?](Why-join.md)
-* [Activities you participate in / things you are passionate about](Activities-passions.md)
-* [Achievements you are proud of](Achievements-proud.md)
-* [Your role in school or in your activities&hobbies](Your-role.md)
-* [An interesting or funnny fact about you](Interesting-fact.md)
-* [What or who was the most important factor in your decision to join the LEAF Academy?](Join-factor.md)
+The questions already answered will be ticked, the blank ones will have a blank box in front of them.
+
+- [x] [Why do you want to join the LEAF Academy?](Why-join.md)
+- [ ] [Activities you participate in / things you are passionate about](Activities-passions.md)
+- [ ] [Achievements you are proud of](Achievements-proud.md)
+- [ ] [Your role in school or in your activities&hobbies](Your-role.md)
+- [ ] [An interesting or funnny fact about you](Interesting-fact.md)
+- [ ] [What or who was the most important factor in your decision to join the LEAF Academy?](Join-factor.md)
 
 ## Interesting document or video
 
