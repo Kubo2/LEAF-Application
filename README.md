@@ -16,3 +16,4 @@ If you have any interesting document/video about yourself, please attach it here
 * [Zubná ambulancia Strmý vŕšok](http://zubnaambulancia.sk)
 * [Diggy's Helper](https://diggyshelper.net)
 * [India, nič nie je nemožné – Rotary Good News](http://www.floowie.com/cs/cti/rotary-good-news-c-5-2016/#/strana/24/zvacseni/100/)
+* [My speech](https://youtu.be/8yTay7NOX88) in a Rotary Club in Coimbatore a couple of days before I left India
