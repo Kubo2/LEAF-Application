@@ -22,4 +22,3 @@ My other activities are listed below:
 * space&space exploration, astrophysics, rocket science
 * the science and philosophy behind of life, death&consciousness
 * passionate about getting esperanto to be the official language of the European Union and be the second language to every European making up the identity of a "European citizen"
-* along with my sister Karin, we want to found a school in India with education system similar to that used at the LEAF Academy (according to what has been presented to us on the open day)
