@@ -1,6 +1,6 @@
 # LEAF Application
 
-This repository contains my answers to the few interesting questions in the application for the LEAF Academy.
+This repository contains my answers to the few interesting questions in the application for the [LEAF Academy](http://www.leafacademy.eu/).
 
 The questions already answered will be ticked, the blank ones will have a blank box in front of them.
 
