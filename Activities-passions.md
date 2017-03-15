@@ -22,3 +22,4 @@ My other activities are listed below:
 * space&space exploration, astrophysics, rocket science
 * the science and philosophy behind of life, death&consciousness
 * passionate about getting esperanto to be the official language of the European Union and be the second language to every European making up the identity of a "European citizen"
+* doing the "Convict Conditioning" bodyweight exercises and formerly had been doing a very interesting sport called the sprint canoeing
