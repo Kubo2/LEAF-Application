@@ -1,5 +1,10 @@
 # Why do you want to join the LEAF Academy?
 
+Actual question: _Why do you want to join the LEAF Academy?_
+
+
+# My answer
+
 I am interested in joining the LEAF Academy for a few different reasons. At first, it offers a huge improvement to the traditional slovak education system – the concepts of a _public high school_ and a _public grammar school_. These two concepts are the only – at least from my own experience – options for a high school education in Slovakia.
 However, they both are kind of edge cases, each on its own side of the road. If considered properly, one can clearly see that in the case of a traditional slovak _high school_, a student is forced to narrow their worldview and specialize in a certain few specific topics, almost leaving everything else out. Whereas, in the case of a traditional slovak _grammar school_, students usually don't learn anything too much useful during the four years of high school, at least nowadays, because the teachers reduce the things we go through claiming the excuse that there's no time to do this or learn that and that we would take that at the seminaries, despite the fact that there seems to be no time to really understand the things at the seminaries either, only learning or revising them for the leaving exams. A student studying at a traditional slovak _grammar school_ waits like a chicory for four or eight years to finally learn something only to learn that he had learnt almost nothing beyond the general affairs.
 
