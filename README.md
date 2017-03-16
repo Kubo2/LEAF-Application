@@ -6,7 +6,7 @@ The questions already answered will be ticked, the blank ones will have a blank 
 
 - [x] [Why do you want to join the LEAF Academy?](Why-join.md)
 - [x] [Activities you participate in / things you are passionate about](Activities-passions.md)
-- [ ] [Achievements you are proud of](Achievements-proud.md)
+- [x] [Achievements you are proud of](Achievements-proud.md) <!-- this one might need a little bit revising though -->
 - [x] [Your role in school or in your activities&hobbies](Your-role.md)
 - [x] [An interesting or funny fact about you](Interesting-fact.md)
 - [x] [What or who was the most important factor in your decision to join the LEAF Academy?](Important-factor.md)
