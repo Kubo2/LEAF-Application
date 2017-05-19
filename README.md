@@ -1,10 +1,8 @@
 # LEAF Application
 
-_Please consider this repository **sealed** until the April 15th, 2017. I shall not make any changes to any of the files in this repository that are beyond the scope of typos and minor changes prior to that date._
+_I have been admitted to the LEAF Academy on May 11th, 2017. Take a look at my [Admission Offer](assets/admission-offer@leaf.pdf)._
 
 This repository contains my answers to the few interesting questions in the application for the [LEAF Academy](http://www.leafacademy.eu/).
-
-The questions already answered will be ticked, the blank ones will have a blank box in front of them.
 
 - [x] [Why do you want to join the LEAF Academy?](Why-join.md)
 - [x] [Activities you participate in / things you are passionate about](Activities-passions.md)
